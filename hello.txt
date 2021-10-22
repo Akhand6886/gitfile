@@ -1,2 +1,5 @@
 Edited again!
 
+PRs not showing up? Hacktoberfest profiles refresh approximately every 15 minutes if you’re reloading this page, or every 6 hours if not.
+
+The Hacktoberfest profile only shows participant contributions. Maintainer actions will not be shown here, and will be tallied up in a one-time check performed by the Hacktoberfest team after Hacktoberfest has ended.
