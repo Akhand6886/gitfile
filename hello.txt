@@ -1,8 +1,3 @@
-#include<stdio.h>
-int main()
-//c code in text file for demonstration, change the extension before testing
-//
-{
-printf("Hello world 1")
-printf("Hello world 2")
-}
+Text 1
+Text 2
+Text 3
