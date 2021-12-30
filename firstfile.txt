@@ -1,6 +1,5 @@
 hello world
 git commit
 git status
-git log --oneline
-git init
-
+hello world
+this is conf.. 2
