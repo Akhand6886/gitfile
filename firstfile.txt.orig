@@ -1,0 +1,10 @@
+hello world
+git commit
+git status
+<<<<<<< HEAD
+git log --oneline
+git init
+=======
+hello world 
+>>>>>>> master
+
