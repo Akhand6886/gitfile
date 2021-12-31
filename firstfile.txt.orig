@@ -2,9 +2,9 @@ hello world
 git commit
 git status
 <<<<<<< HEAD
-git log --oneline
-git init
+hello world
+this is conf.. 2
 =======
 hello world 
+this is here for a conflict
 >>>>>>> master
-
